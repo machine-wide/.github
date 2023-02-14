@@ -10,4 +10,4 @@
 
 That image above is not real, bellow is us working
 
-<img arc="https://www.ppic.org/wp-content/uploads/ElementaryStudentsLaptops.jpg" />
+<img src="https://www.ppic.org/wp-content/uploads/ElementaryStudentsLaptops.jpg" />
