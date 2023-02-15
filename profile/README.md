@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/www.creativededuction.com/wp-content/uploads/2017/09/Child-labour.jpg?fit=612%2C448&ssl=1" width="100%" />
+<!-- img src="https://i0.wp.com/www.creativededuction.com/wp-content/uploads/2017/09/Child-labour.jpg?fit=612%2C448&ssl=1" width="100%" / -->
 
 ---
 
@@ -8,6 +8,6 @@
 
 ### Reusable code we use on our development machines. 
 
-That image above is not real, bellow is us working
+That is us working
 
 <img src="https://www.ppic.org/wp-content/uploads/ElementaryStudentsLaptops.jpg" />
